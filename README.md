@@ -1,4 +1,4 @@
-# TechNova IT Help Desk Lab
+# IT Help Desk Lab
 
 **Windows Server 2025 | Active Directory | Windows 11 | DNS | IIS | Jira Service Management**
 
